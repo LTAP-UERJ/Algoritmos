@@ -3,15 +3,15 @@ Algoritmos diversos em Matlab
 
 Aviso Legal e Direitos Autorais
 
-Este repositório reúne algoritmos em MATLAB disponibilizados de forma gratuita e aberta por seus respectivos autores, visando facilitar o acesso e a utilização em atividades de ensino, pesquisa e treinamento.
+Este repositório reúne algoritmos em MATLAB disponibilizados de forma gratuita e aberta por seus respectivos autores. Os códigos aqui organizados são utilizados por mim exclusivamente com fins didáticos em disciplinas ministradas na UERJ e em aplicações em trabalhos de pesquisa científica.
 
 📌 Importante:
 
-Não sou o autor original dos algoritmos aqui disponibilizados. Os códigos foram coletados de fontes públicas, sendo preservados os devidos créditos aos desenvolvedores.
+Não sou o autor original dos algoritmos aqui disponibilizados. Eles foram coletados de fontes públicas, sempre com preservação dos créditos aos desenvolvedores.
 
-O conteúdo é divulgado apenas para fins acadêmicos e educacionais, sem fins comerciais.
+O conteúdo é compartilhado apenas para fins acadêmicos e educacionais, sem finalidade comercial.
 
-Este material não representa oficialmente a Universidade do Estado do Rio de Janeiro (UERJ), sendo uma iniciativa pessoal de divulgação e organização de recursos de apoio ao aprendizado.
+Este material não representa oficialmente a Universidade do Estado do Rio de Janeiro (UERJ), sendo uma iniciativa pessoal de organização e divulgação de recursos de apoio ao aprendizado e à pesquisa.
 
 O uso, modificação e redistribuição dos algoritmos devem respeitar as condições estabelecidas pelos respectivos autores e/ou licenças originais.
 
